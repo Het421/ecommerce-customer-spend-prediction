@@ -4,7 +4,6 @@ It analyzes customer behavior such as session length, time on app, time on websi
 
 # Tech Stacks
 🐍 Python
-
 📊 Pandas
 📈 Matplotlib
 🎨 Seaborn
