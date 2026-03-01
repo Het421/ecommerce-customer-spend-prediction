@@ -1,2 +1,11 @@
-# ecommerce-customer-spend-prediction
-A Machine Learning project that analyzes E-commerce customer behavior and builds a Linear Regression model to predict yearly spending.
+# About the Project
+This project uses Linear Regression to predict customer yearly spending based on an E-commerce dataset.
+It analyzes customer behavior such as session length, time on app, time on website, and membership duration to understand spending patterns.
+
+# Tech Stacks
+🐍 Python
+
+📊 Pandas
+📈 Matplotlib
+🎨 Seaborn
+🤖 Scikit-Learn
